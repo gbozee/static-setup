@@ -7,7 +7,6 @@ You can download node from [https://nodejs.org/en/download/](https://nodejs.org/
 
 You also need to add `node` to your path then open your command line and type `npm`
 
-    git clone <repo>
     npm install -g gulp # if you haven't installed gulp
     npm install -g browser-sync # if you haven't installed browser-sync
     npm install
